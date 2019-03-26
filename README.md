@@ -6,7 +6,6 @@ We are a team focused on improving the developer experience of the Aragon Commun
 
 Check the [members document](./Members.md)
 
-
 ## Transparency
 
 See our [transparency document](./Transparency.md)
