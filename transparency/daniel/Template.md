@@ -1,7 +1,7 @@
 # Milestone X
 
-| | | |
-|-|-|-|
+| | |
+|-|-|
 | From  | 2019-xx-xx |
 | Until | 2019-xx-xx |
 | Hours | x |
