@@ -12,6 +12,8 @@
 
 ## Description
 
+![Time-tracking report](assets/Milestone-9-toggle-report.PNG)
+
 Opened these PRs:
 
 - [#366 Fix gas on grant and publish](https://github.com/aragon/aragon-cli/pull/366)
@@ -46,5 +48,3 @@ Opened/discussed these issues:
 - [#95 Use https for IPFS nodes](https://github.com/aragon/hack/pull/95)
 
 Also working on a [Roadmap for the CLI](https://github.com/aragon/aragon-cli/pull/360) with Gabi, and, as usual, helping people in #dev-help channel.
-
-![Time-tracking report](assets/Milestone%209%20toggle%20report.PNG)

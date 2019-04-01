@@ -12,7 +12,9 @@
 
 ## Description
 
-In progress:
+![Time-tracking report](assets/Milestone-10-toggle-report.PNG)
+
+Work in progress:
 
 - [#230 [WIP] Simpler API using events and promises](https://github.com/aragon/aragon.js/pull/230)
 

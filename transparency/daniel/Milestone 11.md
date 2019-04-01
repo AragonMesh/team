@@ -12,7 +12,9 @@
 
 ## Description
 
-In progress work:
+![Time-tracking report](assets/Milestone-11-toggle-report.PNG)
+
+Work in progress:
 
 - [#32 Convert scripts to node to support windows](https://github.com/aragon/aragen/pull/32)
 - [#65 Aragon 0.6.4 doesn't load](https://github.com/aragon/aragon-desktop/issues/65)
