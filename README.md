@@ -10,4 +10,4 @@ Check the [members document](./Members.md).
 
 See our [transparency document](./Transparency.md).
 
-Follow our progress with [GitHub Project](https://github.com/orgs/aragon/projects/3#card-19271602).
+Follow our progress on this [GitHub Project](https://github.com/orgs/aragon/projects/3).
