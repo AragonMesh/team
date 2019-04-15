@@ -1,12 +1,12 @@
 # Milestone 5
 
-| | |
-|-|-|
-| From  | 2018-11-29 |
-| Until | 2018-12-08 |
-| Hours | 33 |
+|       |                  |
+| ----- | ---------------- |
+| From  | 2018-11-29       |
+| Until | 2018-12-08       |
+| Hours | 33               |
 | Asked | 1650 USD @ 50/hr |
-| Given | 17.46956061 ETH |
+| Given | 17.46956061 ETH  |
 
 ## References
 

@@ -1,12 +1,12 @@
 # Milestone 8
 
-| | |
-|-|-|
-| From  | 2018-12-31 |
-| Until | 2019-01-18 |
-| Hours | 72.5 |
+|       |                  |
+| ----- | ---------------- |
+| From  | 2018-12-31       |
+| Until | 2019-01-18       |
+| Hours | 72.5             |
 | Asked | 2175 DAI @ 30/hr |
-| Given | 2175 DAI |
+| Given | 2175 DAI         |
 
 ## References
 

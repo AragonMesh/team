@@ -1,12 +1,12 @@
 # Milestone X
 
-| | |
-|-|-|
-| From  | 2019-xx-xx |
-| Until | 2019-xx-xx |
-| Hours | x |
+|       |               |
+| ----- | ------------- |
+| From  | 2019-xx-xx    |
+| Until | 2019-xx-xx    |
+| Hours | x             |
 | Asked | x DAI @ 50/hr |
-| Given | - |
+| Given | -             |
 
 ## References
 

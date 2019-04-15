@@ -1,14 +1,16 @@
 # Milestone 11
 
-| | |
-|-|-|
-| From  | 2019-03-25 |
-| Until | 2019-03-31 |
-| Hours | 21 |
+|       |                  |
+| ----- | ---------------- |
+| From  | 2019-03-25       |
+| Until | 2019-03-31       |
+| Hours | 21               |
 | Asked | 1050 DAI @ 50/hr |
-| Given | - |
+| Given | 1050             |
 
 ## References
+
+Tx: <https://etherscan.io/tx/0x43124873c953f4bf8579ddafb7601c25c2b78d64a6d3b99c1ccbf915e4e3d16e>
 
 ## Description
 

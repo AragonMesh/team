@@ -1,12 +1,12 @@
 # Milestone 1
 
-| | |
-|-|-|
-| From  | 2018-09-10 |
-| Until | 2018-09-14 |
-| Hours | 16 |
+|       |                 |
+| ----- | --------------- |
+| From  | 2018-09-10      |
+| Until | 2018-09-14      |
+| Hours | 16              |
 | Asked | 400 EUR @ 25/hr |
-| Given | 2.01035332 ETH |
+| Given | 2.01035332 ETH  |
 
 ## References
 

@@ -1,12 +1,12 @@
 # Milestone 7
 
-| | |
-|-|-|
-| From  | 2018-12-19 |
-| Until | 2018-12-29 |
-| Hours | 29.75 |
+|       |                   |
+| ----- | ----------------- |
+| From  | 2018-12-19        |
+| Until | 2018-12-29        |
+| Hours | 29.75             |
 | Asked | 892.5 DAI @ 30/hr |
-| Given | 892.5 DAI |
+| Given | 892.5 DAI         |
 
 ## References
 

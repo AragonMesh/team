@@ -1,12 +1,12 @@
 # Milestone 2
 
-| | |
-|-|-|
-| From  | 2018-09-27 |
-| Until | 2018-10-07 |
-| Hours | 17.75 |
+|       |                 |
+| ----- | --------------- |
+| From  | 2018-09-27      |
+| Until | 2018-10-07      |
+| Hours | 17.75           |
 | Asked | 443 EUR @ 25/hr |
-| Given | 2.28209355 ETH |
+| Given | 2.28209355 ETH  |
 
 ## References
 

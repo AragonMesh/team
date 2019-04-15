@@ -1,14 +1,16 @@
 # Milestone 10
 
-| | |
-|-|-|
-| From  | 2019-03-01 |
-| Until | 2019-03-24 |
-| Hours | 92.75 |
+|       |                    |
+| ----- | ------------------ |
+| From  | 2019-03-01         |
+| Until | 2019-03-24         |
+| Hours | 92.75              |
 | Asked | 4637.5 DAI @ 50/hr |
-| Given | - |
+| Given | 4637.5             |
 
 ## References
+
+Tx: <https://etherscan.io/tx/0x43124873c953f4bf8579ddafb7601c25c2b78d64a6d3b99c1ccbf915e4e3d16e>
 
 ## Description
 

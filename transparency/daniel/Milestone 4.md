@@ -1,12 +1,12 @@
 # Milestone 4
 
-| | |
-|-|-|
-| From  | 2018-11-03 |
-| Until | 2018-11-28 |
-| Hours | 70 |
+|       |                  |
+| ----- | ---------------- |
+| From  | 2018-11-03       |
+| Until | 2018-11-28       |
+| Hours | 70               |
 | Asked | 3500 USD @ 50/hr |
-| Given | 32.7715355 ETH |
+| Given | 32.7715355 ETH   |
 
 ## References
 

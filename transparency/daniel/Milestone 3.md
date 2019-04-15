@@ -1,12 +1,12 @@
 # Milestone 3
 
-| | |
-|-|-|
-| From  | 2018-10-15 |
-| Until | 2018-10-22 |
-| Hours | 17.5 |
+|       |                 |
+| ----- | --------------- |
+| From  | 2018-10-15      |
+| Until | 2018-10-22      |
+| Hours | 17.5            |
 | Asked | 420 EUR @ 25/hr |
-| Given | 2.36579733 ETH |
+| Given | 2.36579733 ETH  |
 
 ## References
 

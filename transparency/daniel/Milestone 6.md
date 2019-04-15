@@ -1,12 +1,12 @@
 # Milestone 6
 
-| | |
-|-|-|
-| From  | 2018-12-10 |
-| Until | 2018-12-17 |
-| Hours | 34.5 |
+|       |                  |
+| ----- | ---------------- |
+| From  | 2018-12-10       |
+| Until | 2018-12-17       |
+| Hours | 34.5             |
 | Asked | 1035 DAI @ 30/hr |
-| Given | 1035 DAI |
+| Given | 1035 DAI         |
 
 ## References
 
