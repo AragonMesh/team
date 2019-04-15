@@ -1,12 +1,12 @@
 # Milestone 1
 
-| | |
-|-|-|
-| From  | 2018-10-15 |
-| Until | 2018-11-05 |
-| Hours | 22 |
+|       |                 |
+| ----- | --------------- |
+| From  | 2018-10-15      |
+| Until | 2018-11-05      |
+| Hours | 22              |
 | Asked | 528 USD @ 24/hr |
-| Given | 2.53395402 ETH |
+| Given | 2.53395402 ETH  |
 
 ## References
 
@@ -35,6 +35,6 @@ Tasks accomplished:
 
 Hours logged: 22
 
-Requested rate: $24/hr
+Requested rate: \$24/hr
 
-Total Pay: $528
+Total Pay: \$528

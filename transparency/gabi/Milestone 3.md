@@ -1,12 +1,12 @@
 # Milestone 3
 
-| | |
-|-|-|
-| From  | 2018-11-19 |
-| Until | 2018-12-08 |
-| Hours | 73 |
+|       |                  |
+| ----- | ---------------- |
+| From  | 2018-11-19       |
+| Until | 2018-12-08       |
+| Hours | 73               |
 | Asked | 2190 USD @ 30/hr |
-| Given | 23.18687136 ETH |
+| Given | 23.18687136 ETH  |
 
 ## References
 
@@ -33,6 +33,6 @@ In this period I been involved with the team organization and improving my domai
 
 Hours logged: 73
 
-Requested rate: $30/hr
+Requested rate: \$30/hr
 
-Total Pay: $2190
+Total Pay: \$2190

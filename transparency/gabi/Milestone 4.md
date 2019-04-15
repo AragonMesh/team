@@ -1,12 +1,12 @@
 # Milestone 4
 
-| | |
-|-|-|
-| From  | 2018-12-09 |
-| Until | 2018-12-23 |
-| Hours | 83 |
+|       |                  |
+| ----- | ---------------- |
+| From  | 2018-12-09       |
+| Until | 2018-12-23       |
+| Hours | 83               |
 | Asked | 1245 DAI @ 15/hr |
-| Given | 1245 DAI |
+| Given | 1245 DAI         |
 
 ## References
 
@@ -30,6 +30,6 @@ Now my next goal is keep aragonCLI bug free and start building new features alig
 
 Hours logged: 83
 
-Requested rate: $15/hr
+Requested rate: \$15/hr
 
-Total Pay: $1245
+Total Pay: \$1245

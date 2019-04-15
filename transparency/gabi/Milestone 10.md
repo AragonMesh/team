@@ -6,11 +6,15 @@
 | Until | 2019-03-31       |
 | Hours | 147              |
 | Asked | 7350 DAI @ 50/hr |
-| Given | -                |
+| Given | 7350 DAI         |
+
+## References
+
+Tx: <https://etherscan.io/tx/0x2e1adcbc3da9dc7c31175be65ad4854777acd28f3551c132a90faa23d83f1067>
 
 ## Description
 
-### In progress
+### Work in progress
 
 #### aragon-cli
 

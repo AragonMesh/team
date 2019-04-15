@@ -1,12 +1,12 @@
 # Milestone 5
 
-| | |
-|-|-|
-| From  | 2018-12-24 |
-| Until | 2018-12-30 |
-| Hours | 34 |
+|       |                 |
+| ----- | --------------- |
+| From  | 2018-12-24      |
+| Until | 2018-12-30      |
+| Hours | 34              |
 | Asked | 510 DAI @ 15/hr |
-| Given | 510 DAI |
+| Given | 510 DAI         |
 
 ## References
 

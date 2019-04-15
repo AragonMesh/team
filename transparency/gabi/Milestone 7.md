@@ -1,12 +1,12 @@
 # Milestone 7
 
-| | |
-|-|-|
-| From  | 2019-01-07 |
-| Until | 2019-01-13 |
-| Hours | 35.38 |
+|       |                    |
+| ----- | ------------------ |
+| From  | 2019-01-07         |
+| Until | 2019-01-13         |
+| Hours | 35.38              |
 | Asked | 1061.4 DAI @ 30/hr |
-| Given | 1061.4 DAI |
+| Given | 1061.4 DAI         |
 
 ## References
 

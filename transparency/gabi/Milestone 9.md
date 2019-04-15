@@ -1,14 +1,16 @@
 # Milestone 9
 
-| | |
-|-|-|
-| From  | 2019-02-01 |
-| Until | 2019-02-28 |
-| Hours | 98.37 |
+|       |                    |
+| ----- | ------------------ |
+| From  | 2019-02-01         |
+| Until | 2019-02-28         |
+| Hours | 98.37              |
 | Asked | 4918.5 DAI @ 50/hr |
-| Given | - |
+| Given | 4918.5 DAI         |
 
 ## References
+
+Tx: <https://etherscan.io/tx/0x2e1adcbc3da9dc7c31175be65ad4854777acd28f3551c132a90faa23d83f1067>
 
 ## Description
 

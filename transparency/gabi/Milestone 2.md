@@ -1,12 +1,12 @@
 # Milestone 2
 
-| | |
-|-|-|
-| From  | 2018-11-05 |
-| Until | 2018-11-19 |
-| Hours | 26.5 |
+|       |                 |
+| ----- | --------------- |
+| From  | 2018-11-05      |
+| Until | 2018-11-19      |
+| Hours | 26.5            |
 | Asked | 636 USD @ 24/hr |
-| Given | 5.78497362 ETH |
+| Given | 5.78497362 ETH  |
 
 ## References
 
@@ -32,6 +32,6 @@ I'll overseen [Tennagraph](https://beta.giveth.io/campaigns/5b51bdbdf8ba4732631
 
 Hours logged: 26.5
 
-Requested rate: $24/hr
+Requested rate: \$24/hr
 
-Total Pay: $636
+Total Pay: \$636
