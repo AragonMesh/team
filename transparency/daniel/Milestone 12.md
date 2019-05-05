@@ -6,7 +6,7 @@
 | Until | 2019-04-07      |
 | Hours | 17.5            |
 | Asked | 875 DAI @ 50/hr |
-| Given | -               |
+| Given | 875 DAI         |
 
 ## References
 

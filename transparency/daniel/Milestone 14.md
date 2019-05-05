@@ -6,7 +6,7 @@
 | Until | 2019-04-30       |
 | Hours | 53               |
 | Asked | 2650 DAI @ 50/hr |
-| Given | -                |
+| Given | 2650 DAI         |
 
 ## References
 
@@ -50,7 +50,7 @@ Opened/discussed these issues:
 - [#34 Deploy old versions of core apps to mimic mainnet deployment](https://github.com/aragon/aragen/issues/34)
 - [#441 Move off of deprecated @aragon/messenger](https://github.com/aragon/aragon-cli/issues/441)
 - [#390 Port e2e tests to node](https://github.com/aragon/aragon-cli/pull/390)
-- [#75 Remove apm-*.open packages](https://github.com/aragon/deployments/issues/75)
+- [#75 Remove apm-\*.open packages](https://github.com/aragon/deployments/issues/75)
 - [#436 Fix solidity-extractor function declaration detection](https://github.com/aragon/aragon-cli/pull/436)
 - [#445 Split ipfs rpc options](https://github.com/aragon/aragon-cli/issues/445)
 - [#320 Cannot pass array arguments to kits](https://github.com/aragon/aragon-cli/issues/320)
