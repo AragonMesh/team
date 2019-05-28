@@ -40,6 +40,8 @@
 
 2019-05-12 **hack** [#147 Change URL aragonjs for api-js](https://github.com/aragon/hack/pull/147)
 
+2019-05-6 **aragon-react-boilerplate** [#53 Add repo structure section](https://github.com/aragon/aragon-react-boilerplate/pull/53#pullrequestreview-234191720)
+
 ### Tested/reviewed these PRs
 
 2019-05-23 **hack** [#161 Update getting-started.md](https://github.com/aragon/hack/pull/161)
@@ -53,6 +55,8 @@
 2019-05-17 **hack** [#139 Draft: Improved getting-started page](https://github.com/aragon/hack/pull/139)
 
 2019-05-15 **aragon-cli** [#465 Update dependencies for all 🌴](https://github.com/aragon/aragon-cli/pull/465)
+
+2019-05-1 **aragon-cli** [#454 Fix getDependentBinary](https://github.com/aragon/aragon-cli/pull/454#issuecomment-489345563)
 
 ### Opened/discussed these issues
 
@@ -79,6 +83,8 @@
 2019-05-17 **hack** [#150 Iterate on How to use Frame guide](https://github.com/aragon/hack/issues/150)
 
 2019-05-12 **hack** [#145 Rename 'aragonjs' URLs to 'api-js-\*'](https://github.com/aragon/hack/issues/145)
+
+2019-05-10 **aragon-cli** [#450 On major deployments, add `methods` from old versions' artifact.jsons](https://github.com/aragon/aragon-cli/issues/450#issuecomment-491312414)
 
 ## Report
 
