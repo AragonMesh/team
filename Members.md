@@ -16,4 +16,4 @@ I’m a developer who has experience with C, Python and Javascript (mostly backe
 
 **Commitment**: Full time
 
-**Socials**: [GitHub](https://github.com/galactusss), [Twitter](https://twitter.com/0xGabi)
+**Socials**: [GitHub](https://github.com/0xGabi), [Twitter](https://twitter.com/0xGabi)
