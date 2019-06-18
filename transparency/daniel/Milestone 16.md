@@ -6,11 +6,11 @@
 | Until | 2019-05-26       |
 | Hours | 26               |
 | Asked | 1300 DAI @ 50/hr |
-| Given | -                |
+| Given | 1300 DAI         |
 
 ## References
 
-Tx:
+Tx: <https://etherscan.io/tx/0xe38777013a6816f61ac2955a1098f3243b5fe5468881d69ea45a1d4b564443d1>
 
 ## Description
 
