@@ -12,7 +12,7 @@ Although the tech was amazing and I had the freedom to move around different par
 
 ## Gabriel Garcia — Dev
 
-I’m a developer who has experience with C, Python and Javascript (mostly backend). I have a general knowledge of Solidity and how the EVM works and is always learning about web3. I like to have a balance routine around work which include healthy diet, meditation and exercise. My goal is to create an impact in society and I think Aragon's mission is deeply align with that purpose. I believe in the future of the project and will put all  my effort to expand the adoption of this technology.
+I’m a developer who has experience with C, Python and Javascript (mostly backend). I have a general knowledge of Solidity and how the EVM works and I'm always learning something. Learning never ends. I like to have a balance routine around work which include healthy diet, meditation and exercise. My goal is to create an impact in society and I think Aragon's mission is deeply align with that purpose. I believe in the future of the project and will put all my effort to expand the adoption of this technology.
 
 **Commitment**: Full time
 

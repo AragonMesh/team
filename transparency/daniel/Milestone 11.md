@@ -6,7 +6,7 @@
 | Until | 2019-03-31       |
 | Hours | 21               |
 | Asked | 1050 DAI @ 50/hr |
-| Given | 1050             |
+| Given | 1050 DAI         |
 
 ## References
 
