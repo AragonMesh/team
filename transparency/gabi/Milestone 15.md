@@ -6,9 +6,11 @@
 | Until | 2019-06-23          |
 | Hours | 74.77               |
 | Asked | 2990.80 DAI @ 40/hr |
-| Given | -                   |
+| Given | 2990.80 DAI         |
 
 ## References
+
+Tx: <https://etherscan.io/tx/0x43eb6fcaa215215bbb54c41573ae3c019710132a6bd8ec7c4c211e7b65f2fa71>
 
 ## Description
 
