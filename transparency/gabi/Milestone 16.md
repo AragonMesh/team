@@ -6,9 +6,11 @@
 | Until | 2019-07-07          |
 | Hours | 74.87               |
 | Asked | 3743.50 DAI @ 50/hr |
-| Given | -                   |
+| Given | 3743.50 DAI         |
 
 ## References
+
+Tx: <https://etherscan.io/tx/0x6ba241a22d43c3c87fe4a01e86536761ea01c1e39574ecd2d7017b61be77e815>
 
 ## Description
 
