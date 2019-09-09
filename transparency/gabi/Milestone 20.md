@@ -18,7 +18,7 @@
 
  2019-08-19 **aragen** [#73 Update scripts to use new templates and fix automatic releses](https://github.com/aragon/aragen/pull/73)
 
-**dao-templates** [#136 Publish script for aragen && include register-packages option on deployer](https://github.com/aragon/dao-templates/pull/136)
+ 2019-08-19 **dao-templates** [#136 Publish script for aragen && include register-packages option on deployer](https://github.com/aragon/dao-templates/pull/136)
 
  2019-08-18 **dao-templates** [#137 Publish script for aragen && include register-packages option on deployer](https://github.com/aragon/dao-templates/pull/137)
 
