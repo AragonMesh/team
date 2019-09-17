@@ -1,4 +1,4 @@
-# Milestone X
+# Milestone 23
 
 |       |                  |
 | ----- | ---------------- |
@@ -6,11 +6,11 @@
 | Until | 2019-08-18       |
 | Hours | 48               |
 | Asked | 2400 DAI @ 50/hr |
-| Given | -                |
+| Given | 2400             |
 
 ## References
 
-Tx:
+Tx: <https://etherscan.io/tx/0x7c8d44696adc4c3293b2f912cb1c75dcf55b4b1d3b57e07d1026dd8abe39fbc0>
 
 ## Description
 

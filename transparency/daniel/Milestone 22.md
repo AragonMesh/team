@@ -1,4 +1,4 @@
-# Milestone 2
+# Milestone 22
 
 |       |                  |
 | ----- | ---------------- |
@@ -6,7 +6,7 @@
 | Until | 2019-07-21       |
 | Hours | 35               |
 | Asked | 1750 DAI @ 50/hr |
-| Given | -                |
+| Given | 1750             |
 
 ## References
 

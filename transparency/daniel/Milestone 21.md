@@ -1,4 +1,4 @@
-# Milestone 20
+# Milestone 21
 
 |       |                  |
 | ----- | ---------------- |
@@ -6,11 +6,11 @@
 | Until | 2019-07-07       |
 | Hours | 24               |
 | Asked | 1200 DAI @ 50/hr |
-| Given | -                |
+| Given | 1200             |
 
 ## References
 
-Tx:
+Tx: <https://etherscan.io/tx/0xfa656dff9e44fdd627ef8028811148e2d4d58b109c7064b0f4edf80d592bf963>
 
 ## Description
 
