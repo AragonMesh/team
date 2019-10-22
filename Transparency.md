@@ -35,6 +35,7 @@
 | Sep 15, 2019 | Sep 29, 2019 |  62.95 |  50 DAI | 3,147.50 DAI |         22 |
 | Sep 30, 2019 | Oct 13, 2019 |  44.93 |  50 DAI | 2,246.50 DAI |         23 |
 
+
 ### How to
 
 When creating milestones you might find useful to:
