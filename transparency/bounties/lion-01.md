@@ -24,8 +24,6 @@
 
 2019-11-01 **aragon-cli** [#863 Compare contract roles and parameter count with arapp.json, resolves #370](https://github.com/aragon/aragon-cli/pull/863)
 
-2019-10-31 **DNP_DAPPMANAGER** [#285 Check if global envs are in the VPN environment](https://github.com/dappnode/DNP_DAPPMANAGER/pull/285)
-
 2019-10-30 **aragon-cli** [#843 Error if 'aragon run' is executed with a non local environment, to resolve #308](https://github.com/aragon/aragon-cli/pull/843)
 
 2019-10-30 **aragon-cli** [#844 Show a detailed error with next steps when cyclic dependencies are found, to resolve #780](https://github.com/aragon/aragon-cli/pull/844)
