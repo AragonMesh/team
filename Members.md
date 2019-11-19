@@ -1,4 +1,3 @@
-
 # Members
 
 ## Daniel Constantin — Dev Lead
@@ -23,3 +22,11 @@ I’m a developer who has experience with C, Python and Javascript (mostly backe
 Mathew is a software engineer from Quebec City, Canada. He worked on Espresso in 2018 and is a regular contributor on many open source projects. Before joining the Ethereum and Aragon communities, Mathew has worked for many years on the development of workflow management systems.
 
 **Commitment**: Full time
+
+## dappLion — Dev
+
+**Socials**: [GitHub](https://github.com/dapplion)
+
+Former aerospace engineer, I dropped it all to pursue software engineering after discovering Ethereum. I was fortunate early on to join DAppNode where I have been working for 1.5 years helping to decentralize the infrastructure layer. My responsibilities ranged from developing front-end, back-end, CI, and SDK solutions mostly from scratch. Also, I have been able to contribute to other amazing projects such as Giveth, Swarm City and The Commons Stack. Now, I couldn't be more excited to find myself in the middle of an open-source, blockchain-based vibrant ecosystem working on future technology.
+
+**Commitment**: Part time
