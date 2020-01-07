@@ -6,7 +6,7 @@
 | Until | 2019-09-30      |
 | Hours | 13.5            |
 | Asked | 675 DAI @ 50/hr |
-| Given | 675             |
+| Given | 675 DAI         |
 
 ## References
 

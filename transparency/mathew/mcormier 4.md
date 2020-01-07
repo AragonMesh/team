@@ -1,17 +1,18 @@
-### Bounty 4
+# Milestone 4
 
-|       |            |
-| ----- | ---------- |
-| From  | 2019-10-21 |
-| Until | 2019-12-15 |
-| Hours | 86         |
-| Rate  | 35 DAI     |
+|       |                  |
+| ----- | ---------------- |
+| From  | 2019-10-21       |
+| Until | 2019-12-15       |
+| Hours | 86               |
+| Rate  | 3010 DAI @ 35/hr |
+| Given | -                |
 
-#### References
+## References
 
 Tx: <>
 
-#### Description
+## Description
 
 Work done on issues :
  - [your-first-aragon-app/#11](https://github.com/aragon/your-first-aragon-app/pull/11)

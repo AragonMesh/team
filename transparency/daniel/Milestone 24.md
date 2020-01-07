@@ -6,7 +6,7 @@
 | Until | 2019-08-31       |
 | Hours | 22.5             |
 | Asked | 1125 DAI @ 50/hr |
-| Given | 1125             |
+| Given | 1125 DAI         |
 
 |       |                  |
 | ----- | ---------------- |
@@ -14,7 +14,7 @@
 | Until | 2019-09-15       |
 | Hours | 32.5             |
 | Asked | 1625 DAI @ 50/hr |
-| Given | 1625             |
+| Given | 1625 DAI         |
 
 ## References
 

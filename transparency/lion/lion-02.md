@@ -6,9 +6,11 @@
 | Until | 2019-11-17          |
 | Hours | 29.21               |
 | Asked | 1022.35 DAI @ 35/hr |
-| Given | -                   |
+| Given | 1022.35 DAI         |
 
 ## References
+
+Tx: <https://etherscan.io/tx/0x2a7781910e66f1e7b01b7ccbdf916b666fcf518f29b802443fd1111157186c85>
 
 ## Description
 

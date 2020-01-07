@@ -6,7 +6,7 @@
 | Until | 2019-08-19       |
 | Hours | 55.60            |
 | Asked | 2224 DAI @ 40/hr |
-| Given | -                |
+| Given | 2224 DAI         |
 
 ## References
 
