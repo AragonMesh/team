@@ -5,7 +5,7 @@
 |         Amount | Source of funding |
 | -------------: | ----------------: |
 | ~18,000.00 DAI |        Aragon DAC |
-|  90,000.00 DAI |              Nest |
+|  100,000.00 DAI |              Nest |
 |        **TBD** |           AGP-130 |
 
 ## Outgoing
