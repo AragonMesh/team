@@ -22,7 +22,7 @@
 | Mathew      | 2019 |  4,795.00 DAI |
 
 Events: 4,171.88 DAI
-Bounties: 155.00 DAI
+Bounties: 255.00 DAI
 
 ### Daniel
 
