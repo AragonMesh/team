@@ -5,7 +5,7 @@
 |         Amount | Source of funding |
 | -------------: | ----------------: |
 | ~18,000.00 DAI |        Aragon DAC |
-|  100,000.00 DAI |              Nest |
+| 100,000.00 DAI |              Nest |
 |        **TBD** |           AGP-130 |
 
 ## Outgoing
@@ -18,7 +18,7 @@
 | Gabi        | 2018 |  5,862.45 USD |
 | Daniel      | 2019 | 41,612.50 DAI |
 | Gabi        | 2019 | 58,641.70 DAI |
-| Lion        | 2019 |  3,347.10 DAI |
+| Lion        | 2019 |  4,604.60 DAI |
 | Mathew      | 2019 |  4,795.00 DAI |
 
 Events: 4,171.88 DAI
@@ -74,7 +74,8 @@ Bounties: 255.00 DAI
 | Oct 21, 2019 | Nov 03, 2019 | 20.05 |   35 DAI |   701.75 DAI |          1 | Nest    |
 | Nov 4, 2019  | Nov 17, 2019 | 29.21 |   35 DAI | 1,022.35 DAI |          2 | Nest    |
 | Nov 18, 2019 | Dec 1, 2019  | 24.50 |   35 DAI |   857.50 DAI |          3 | Nest    |
-| Dec 2 , 2019 | Dec 15, 2019 | 15.31 |   50 DAI |   765.50 DAI |          4 | **TBD** |
+| Dec 2, 2019  | Dec 15, 2019 | 15.31 |   50 DAI |   765.50 DAI |          4 | **TBD** |
+| Dec 16, 2019 | Dec 29, 2019 | 25.15 |   50 DAI |   1257.5 DAI |          5 | **TBD** |
 
 ## Mathew
 
