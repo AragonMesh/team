@@ -12,14 +12,14 @@
 
 ### Summary
 
-| Contributor | Year |        Amount |
-| :---------- | :--- | ------------: |
-| Daniel      | 2018 | ~8,500.00 USD |
-| Gabi        | 2018 |  5,862.45 USD |
-| Daniel      | 2019 | 41,612.50 DAI |
-| Gabi        | 2019 | 58,641.70 DAI |
-| Lion        | 2019 |  4,604.60 DAI |
-| Mathew      | 2019 |  4,795.00 DAI |
+| Contributor | Year |    Hours | Average pay rate | Averaged total pay |
+| :---------- | :--- | -------: | ---------------: | -----------------: |
+| Daniel      | 2018 |   218.50 |           40 DAI |       8,500.00 USD |
+| Gabi        | 2018 |   288.73 |           20 DAI |       5,862.45 USD |
+| Daniel      | 2019 |   836.75 |           49 DAI |      41,612.50 DAI |
+| Gabi        | 2019 | 1,240.01 |           47 DAI |      58,641.70 DAI |
+| Lion        | 2019 |   114.22 |           40 DAI |       4,604.60 DAI |
+| Mathew      | 2019 |   137.00 |           35 DAI |       4,795.00 DAI |
 
 Events: 4,171.88 DAI
 Bounties: 255.00 DAI
