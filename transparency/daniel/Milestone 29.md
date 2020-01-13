@@ -5,20 +5,12 @@
 | From  | 2019-12-01       |
 | Until | 2019-12-24       |
 | Hours | 49               |
-| Asked | 3675 DAI @ 75/hr |
+| Asked | 2450 DAI @ 50/hr |
 | Given | -                |
 
 ## References
 
 Tx:
-
-## Pay rate notice
-
-The reason for the increase in pay rate is due to having had time off in Q3, time which I spent
-consolidating some of my knowledge of event-driven systems and micro-kernel architectures.
-This research, and opportunity to articulate Aragon's tech needs, has resulted in me having a clearer
-vision of what needs to be done. Prior to this I've been mostly tackling the problems in front of me
-as good as possible, not knowing how the pieces will fall into place.
 
 ## Description
 
