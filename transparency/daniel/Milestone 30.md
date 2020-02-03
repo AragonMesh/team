@@ -1,9 +1,9 @@
-# Milestone X
+# Milestone 30
 
 |       |                  |
 | ----- | ---------------- |
-| From  | 2019-01-01       |
-| Until | 2019-01-31       |
+| From  | 2020-01-01       |
+| Until | 2020-01-31       |
 | Hours | 25               |
 | Asked | 1250 DAI @ 50/hr |
 | Given | -                |
