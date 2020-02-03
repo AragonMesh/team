@@ -5,7 +5,7 @@
 | From  | 2020-01-01       |
 | Until | 2020-01-26       |
 | Hours | 40               |
-| Rate  | 1400 DAI @ 35/hr |
+| Rate  | 2000 DAI @ 50/hr |
 | Given | -                |
 
 ## References
