@@ -14,10 +14,12 @@ Tx:
 
 ## Description
 
-Work in progress:
+Started work on (WIP):
 
 Opened these PRs:
 
-Tested/reviewed these PRs:
+Reviewed these PRs:
 
-Opened/discussed these issues:
+Discussed these issues:
+
+Met and talked about:

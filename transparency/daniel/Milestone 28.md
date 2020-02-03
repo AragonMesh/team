@@ -6,11 +6,14 @@
 | Until | 2019-11-30       |
 | Hours | 27               |
 | Asked | 1350 DAI @ 50/hr |
-| Given | 995  DAI         |
+| Given | 1350  DAI        |
 
 ## References
 
-Tx: <https://etherscan.io/tx/0x615ab4ccf057a454b25419c8fa409a7a30c4afcfe4551ff6768fd706a2563784>
+Tx:
+
+- 995 <https://etherscan.io/tx/0x615ab4ccf057a454b25419c8fa409a7a30c4afcfe4551ff6768fd706a2563784>
+- 355 <https://etherscan.io/tx/0xfa5ba1e4530bf343b8e99c448a75df29726b29fc596d47d3efd0eeffffd3b461>
 
 ## Description
 
