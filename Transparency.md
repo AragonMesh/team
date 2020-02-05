@@ -46,26 +46,26 @@ Bounties: 255.00 DAI
 
 ### Gabi
 
-| From         | Until        |  Hours | Pay rate |          Pay | Milestones | Payer      |
-| :----------- | :----------- | -----: | -------: | -----------: | ---------: | :--------- |
-| Oct 15, 2018 | Nov 19, 2018 |  48.50 |   24 USD | 1,164.00 USD |       1, 2 | Aragon DAC |
-| Nov 19, 2018 | Dec 08, 2018 |  73.00 |   30 USD | 2,190.00 USD |          3 | Aragon DAC |
-| Dec 09, 2018 | Jan 06, 2019 | 167.23 |   15 DAI | 2,508.45 DAI |    4, 5, 6 | Aragon DAC |
-| Jan 07, 2019 | Jan 16, 2019 |  48.73 |   30 DAI | 1,461.90 DAI |       7, 8 | Aragon DAC |
-| Feb 01, 2019 | Feb 28, 2019 |  98.37 |   50 DAI | 4,918.50 DAI |          9 | Nest       |
-| Mar 01, 2019 | Mar 31, 2019 | 147.00 |   50 DAI | 7,350.00 DAI |         10 | Nest       |
-| Apr 01, 2019 | Apr 30, 2019 | 133.93 |   50 DAI | 6,696.50 DAI |     11, 12 | Nest       |
-| May 01, 2019 | May 24, 2019 | 121.82 |   50 DAI | 6,091.00 DAI |         13 | Nest       |
-| May 25, 2019 | Jun 23, 2019 | 182.77 |   40 DAI | 7,310.80 DAI |     14, 15 | Nest       |
-| Jun 24, 2019 | Jul 07, 2019 |  74.87 |   50 DAI | 3,743.50 DAI |         16 | Nest       |
-| Jul 08, 2019 | Jul 21, 2019 |  48.72 |   50 DAI | 2,436.00 DAI |         17 | Nest       |
-| Jul 22, 2019 | Aug 04, 2019 |  76.35 |   50 DAI | 3,817.00 DAI |         18 | Nest       |
-| Aug 05, 2019 | Aug 19, 2019 |  55.60 |   40 DAI | 2,224.00 DAI |         19 | Nest       |
-| Aug 20, 2019 | Sep 01, 2019 |  51.34 |   50 DAI | 2,567.00 DAI |         21 | Nest       |
-| Sep 02, 2019 | Sep 15, 2019 |  62.15 |   50 DAI | 3,107.50 DAI |         20 | Nest       |
-| Sep 15, 2019 | Sep 29, 2019 |  62.95 |   50 DAI | 3,147.50 DAI |         22 | Nest       |
-| Sep 30, 2019 | Oct 13, 2019 |  44.93 |   50 DAI | 2,246.50 DAI |         23 | Nest       |
-| Oct 14, 2019 | Oct 20, 2019 |  30.48 |   50 DAI | 1,524.00 DAI |         24 | **TBD**    |
+| From         | Until        |  Hours | Pay rate |          Pay | Milestones | Payer         |
+| :----------- | :----------- | -----: | -------: | -----------: | ---------: | :------------ |
+| Oct 15, 2018 | Nov 19, 2018 |  48.50 |   24 USD | 1,164.00 USD |       1, 2 | Aragon DAC    |
+| Nov 19, 2018 | Dec 08, 2018 |  73.00 |   30 USD | 2,190.00 USD |          3 | Aragon DAC    |
+| Dec 09, 2018 | Jan 06, 2019 | 167.23 |   15 DAI | 2,508.45 DAI |    4, 5, 6 | Aragon DAC    |
+| Jan 07, 2019 | Jan 16, 2019 |  48.73 |   30 DAI | 1,461.90 DAI |       7, 8 | Aragon DAC    |
+| Feb 01, 2019 | Feb 28, 2019 |  98.37 |   50 DAI | 4,918.50 DAI |          9 | Nest          |
+| Mar 01, 2019 | Mar 31, 2019 | 147.00 |   50 DAI | 7,350.00 DAI |         10 | Nest          |
+| Apr 01, 2019 | Apr 30, 2019 | 133.93 |   50 DAI | 6,696.50 DAI |     11, 12 | Nest          |
+| May 01, 2019 | May 24, 2019 | 121.82 |   50 DAI | 6,091.00 DAI |         13 | Nest          |
+| May 25, 2019 | Jun 23, 2019 | 182.77 |   40 DAI | 7,310.80 DAI |     14, 15 | Nest          |
+| Jun 24, 2019 | Jul 07, 2019 |  74.87 |   50 DAI | 3,743.50 DAI |         16 | Nest          |
+| Jul 08, 2019 | Jul 21, 2019 |  48.72 |   50 DAI | 2,436.00 DAI |         17 | Nest          |
+| Jul 22, 2019 | Aug 04, 2019 |  76.35 |   50 DAI | 3,817.00 DAI |         18 | Nest          |
+| Aug 05, 2019 | Aug 19, 2019 |  55.60 |   40 DAI | 2,224.00 DAI |         19 | Nest          |
+| Aug 20, 2019 | Sep 01, 2019 |  51.34 |   50 DAI | 2,567.00 DAI |         21 | Nest          |
+| Sep 02, 2019 | Sep 15, 2019 |  62.15 |   50 DAI | 3,107.50 DAI |         20 | Nest          |
+| Sep 15, 2019 | Sep 29, 2019 |  62.95 |   50 DAI | 3,147.50 DAI |         22 | Nest          |
+| Sep 30, 2019 | Oct 13, 2019 |  44.93 |   50 DAI | 2,246.50 DAI |         23 | Nest          |
+| Oct 14, 2019 | Oct 20, 2019 |  30.48 |   50 DAI | 1,524.00 DAI |         24 | Nest, AGP-130 |
 
 ## Lion
 
@@ -74,8 +74,8 @@ Bounties: 255.00 DAI
 | Oct 21, 2019 | Nov 03, 2019 | 20.05 |   35 DAI |   701.75 DAI |          1 | Nest    |
 | Nov 4, 2019  | Nov 17, 2019 | 29.21 |   35 DAI | 1,022.35 DAI |          2 | Nest    |
 | Nov 18, 2019 | Dec 1, 2019  | 24.50 |   35 DAI |   857.50 DAI |          3 | Nest    |
-| Dec 2, 2019  | Dec 15, 2019 | 15.31 |   50 DAI |   765.50 DAI |          4 | **TBD** |
-| Dec 16, 2019 | Dec 29, 2019 | 25.15 |   50 DAI |   1257.5 DAI |          5 | **TBD** |
+| Dec 2, 2019  | Dec 15, 2019 | 15.31 |   50 DAI |   765.50 DAI |          4 | AGP-130 |
+| Dec 16, 2019 | Dec 29, 2019 | 25.15 |   50 DAI |   1257.5 DAI |          5 | AGP-130 |
 
 ## Mathew
 
@@ -84,7 +84,7 @@ Bounties: 255.00 DAI
 | July 15, 2019 | Aug 11, 2019 |     3 |   35 DAI |  105.00 DAI |          1 | Nest    |
 | Aug 12, 2019  | Sep 29, 2019 |    18 |   35 DAI |  630.00 DAI |          2 | Nest    |
 | Sep 30, 2019  | Oct 20, 2019 |    30 |   35 DAI | 1050.00 DAI |          3 | Nest    |
-| Oct 21, 2019  | Dec 15, 2019 |    86 |   35 DAI | 3010.00 DAI |          4 | **TBD** |
+| Oct 21, 2019  | Dec 15, 2019 |    86 |   35 DAI | 3010.00 DAI |          4 | AGP-130 |
 
 ## How to create milestones
 
