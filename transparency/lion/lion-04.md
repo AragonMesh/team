@@ -6,7 +6,7 @@
 | Until | 2019-12-15         |
 | Hours | 15.31              |
 | Asked | 765.50 DAI @ 50/hr |
-| Given | -                  |
+| Given | 765.50             |
 
 ## References
 
