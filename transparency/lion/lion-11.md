@@ -6,7 +6,7 @@
 | Until | 2020-03-29         |
 | Hours | 82.05              |
 | Asked | 4102.5 DAI @ 50/hr |
-| Given | -                  |
+| Given | 4102.5             |
 
 ## References
 

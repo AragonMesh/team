@@ -2,11 +2,11 @@
 
 |       |                  |
 | ----- | ---------------- |
-| From  | 2019-02-24       |
+| From  | 2020-02-24       |
 | Until | 2020-03-08       |
 | Hours | 33.3             |
 | Asked | 1665 DAI @ 50/hr |
-| Given | -                |
+| Given | 1665             |
 
 ## References
 
@@ -42,6 +42,6 @@ Continued executing the vision of how publish should be handled in the toolkit a
 
 ## Report
 
-![Time-tracking report](assets/lion-milestone-09-timing-report.png)
+![Time-tracking report](assets/lion-milestone-10-timing-report.png)
 
 ====
